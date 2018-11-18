@@ -2,7 +2,7 @@
   class MethodOverLoding {
       double largeNum(double a,double b){
           double max;
-          if(a>b){
+          if(a>b) {
           max=a;
           }
           else{
@@ -12,7 +12,7 @@
       }
       int largeNum(int x,int y,int z){
           int max;
-          if(x>y){
+          if(x>y) && (x>z){
           max=x;
           }
           else if(y>z){
