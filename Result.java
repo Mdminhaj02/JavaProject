@@ -12,7 +12,7 @@
       }
       int largeNum(int x,int y,int z){
           int max;
-          if(x>y) && (x>z){
+          if((x>y) && (x>z)){
           max=x;
           }
           else if(y>z){
