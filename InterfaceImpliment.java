@@ -11,7 +11,7 @@ public void getMark(){
 }
 public void disPlayMark(){
     System.out.println("The student find number : " +mark);
-}
+	}
 }
 
 public class InterfaceImpliment {
