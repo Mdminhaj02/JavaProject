@@ -13,6 +13,8 @@ class OverLoding{
 
 class Main{
 	public static void main(String [] args){
-
+	OverLoding ob = new OverLoding();
+	ob.add(5,8,12);
+	ob.add(10,30);
 }
 }
