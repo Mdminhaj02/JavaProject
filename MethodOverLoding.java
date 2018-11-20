@@ -2,7 +2,7 @@ class OverLoding{
 	void add(int a,int b){
 	int x;
 	x=a+b;
-	System.out.println(c);
+	System.out.println(x);
 }
 	void add(int a,int b,int c){
 	int x;
